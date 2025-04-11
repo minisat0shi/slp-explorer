@@ -77,6 +77,10 @@ export default defineComponent({
         title: "slp-sdk",
         url: "https://developer.bitcoin.com/slp/",
       },
+      {
+        title: "SLP Ecosystem",
+        url: "https://minisatoshi.cash/ecosystem?query=SLP",
+      },
     ];
 
     const connectList = [
